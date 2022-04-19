@@ -26,7 +26,7 @@
 		} else {
 			response.sendRedirect("loginErr.jsp");
 		}
-	
+
 	%>
 	<br>
 	<table border="0">
