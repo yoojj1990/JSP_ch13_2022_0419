@@ -7,6 +7,7 @@
 <title>메인 화면</title>
 </head>
 <body>
+
 	<center>
 	<img src="img/jsp.png" ><br><br>
 	<h2>여러분의 방문을 환영합니다.</h2>
